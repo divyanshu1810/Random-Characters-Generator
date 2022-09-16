@@ -9,7 +9,7 @@ function favourite() {
           <div className=' space-y-4 myfont text-center'>
           <div>Name : Divyanshu</div>
           <div>Disney Id : 18</div>
-          <div><button className='border-2 bg-blue-900 hover:bg-blue-500 duration-200 rounded-lg p-2 text-xs'>Add to favourites</button></div>
+          <div><button className='border-2 bg-blue-900 hover:bg-blue-500 duration-200 rounded-lg p-2 text-xs'>remove from favourites</button></div>
           </div>
         </div>
         <div className='flex justify-between space-x-56'>
@@ -17,7 +17,7 @@ function favourite() {
           <div className=' space-y-4 myfont text-center'>
           <div>Name : Divyanshu</div>
           <div>Disney Id : 18</div>
-          <div><button className='border-2 bg-blue-900 hover:bg-blue-500 duration-200 rounded-lg p-2 text-xs'>Add to favourites</button></div>
+          <div><button className='border-2 bg-blue-900 hover:bg-blue-500 duration-200 rounded-lg p-2 text-xs'>remove from favourites</button></div>
           </div>
         </div>
         <div className='flex justify-between space-x-56'>
@@ -25,7 +25,7 @@ function favourite() {
           <div className=' space-y-4 myfont text-center'>
           <div>Name : Divyanshu</div>
           <div>Disney Id : 18</div>
-          <div><button className='border-2 bg-blue-900 hover:bg-blue-500 duration-200 rounded-lg p-2 text-xs'>Add to favourites</button></div>
+          <div><button className='border-2 bg-blue-900 hover:bg-blue-500 duration-200 rounded-lg p-2 text-xs'>remove from favourites</button></div>
           </div>
         </div>
       </div>
