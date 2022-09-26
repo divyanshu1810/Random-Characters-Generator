@@ -24,6 +24,18 @@ a {
   }
   body {
     color: white;
-    background: black;
+    background: linear-gradient(to bottom, #141b29, #0c111b 300px);
   }
+}
+.myfont{
+  font-family: cursive;
+}
+@media only screen and (max-width: 280px) {
+  .footer{
+    margin-top:1px;
+    font-size:18px;
+    height: 50px;
+  }     
+  
+
 }
